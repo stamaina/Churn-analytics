@@ -3,6 +3,10 @@
 SyriaTel a telecommunications company faces a significant challenge with customer churn, which undermines revenue and operational efficiency. Retaining existing customers is crucial, as acquiring new ones is often more expensive. To tackle this issue, there is need to analyze the key factors influencing churn and develop a predictive model to identify at-risk customers.
 ## Problem statement
 By examining customer behavior, usage patterns, and service quality, insights that drive effective retention strategies can be uncovered. It's vital to assess service experiences, address customer complaints, and ensure competitive pricing. Creating a predictive model will allow us to categorize churn risks and engage proactively with at-risk customers through tailored offers and support.
+
+## Objective
+To analyze customer churn in SyriaTel by exploring customer behavior, identifying key factors influencing churn, and building predictive models to improve customer retention strategies.
+
 ## Key Findings
 
 ## Exploratory Data Analysis (EDA) Results
